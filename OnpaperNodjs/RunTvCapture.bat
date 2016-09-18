@@ -1,0 +1,1 @@
+DesktopScreenShot.exe -prefix screen -count 200 -frequency 10
